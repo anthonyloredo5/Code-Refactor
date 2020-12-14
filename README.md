@@ -5,3 +5,4 @@ These pages have been altered in order to provide proficient Search Engine Optim
 ![Image](assets/images/Screen Shot 2020-12-14 at 6.23.53 PM.png)
 
 ### Link to deployment
+https://anthonyloredo5.github.io/Hw-01/
